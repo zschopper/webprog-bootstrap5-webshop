@@ -15,7 +15,13 @@ footer {
 }
 
 .sizes span {
-    border: 2px solid black;
-    padding: 0 2px;
-    margin: 0 3px;
+  border: 2px solid black;
+  padding: 0 2px;
+  margin: 0 3px;
+}
+
+.btn-xs {
+  --bs-btn-padding-y: 0.025rem;
+  --bs-btn-padding-x: 0.25rem;
+  --bs-btn-font-size: 0.75rem;
 }
