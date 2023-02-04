@@ -1,0 +1,21 @@
+body {
+  background-color: inherit;
+  font-size: 10pt;
+}
+
+header,
+nav,
+aside,
+article {
+  border: inherit;
+}
+
+footer {
+  text-align: center;
+}
+
+.sizes span {
+    border: 2px solid black;
+    padding: 0 2px;
+    margin: 0 3px;
+}
